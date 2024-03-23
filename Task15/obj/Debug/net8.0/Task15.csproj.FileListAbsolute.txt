@@ -1,0 +1,15 @@
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\bin\Debug\net8.0\Task15.exe
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\bin\Debug\net8.0\Task15.deps.json
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\bin\Debug\net8.0\Task15.runtimeconfig.json
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\bin\Debug\net8.0\Task15.dll
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\bin\Debug\net8.0\Task15.pdb
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\Task15.AssemblyInfoInputs.cache
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\Task15.AssemblyInfo.cs
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\Task15.sourcelink.json
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\Task15.dll
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\refint\Task15.dll
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\Task15.pdb
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\Task15.genruntimeconfig.cache
+C:\Users\Тоня\OneDrive\Рабочий стол\Языки программирования\Task15\obj\Debug\net8.0\ref\Task15.dll
