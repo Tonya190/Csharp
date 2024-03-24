@@ -22,3 +22,7 @@ else if (x > 0 && y < 0)
 {
     Console.WriteLine("Четвертая четверть");
 }
+else 
+{
+    Console.WriteLine("Точка не находится на оси координат");
+}
